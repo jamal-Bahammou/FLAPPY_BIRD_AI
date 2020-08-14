@@ -48,4 +48,4 @@ Please feel free to send pull request if you want to contribute!
 
 ## Authors
 
-- **Jamal Bahammou** - _Computer Science Student_ - [jamal-Bahammou](https://github.com/fidalgodev)
+- **Jamal Bahammou** - _Computer Science Student_ - [jamal-Bahammou](https://github.com/jamal-Bahammou)
